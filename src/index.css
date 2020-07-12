@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family:Axiforma;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Axiforma';
+  src: local('Axiforma'), url("./fonts/Axiforma/Axiforma-Medium.woff") format('woff');
+  font-style: normal;
+}

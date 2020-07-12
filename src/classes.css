@@ -1,0 +1,55 @@
+
+.flex{
+    display:flex;
+}
+.flex-space{
+    display:flex;
+    justify-content: space-between;
+    
+}
+.contents{
+    background-color: rgb(223, 217, 217);
+    
+    padding: 0.6%;
+    padding-top: 1%;
+}
+
+.bt{
+    width: 10%;
+    border: none;
+    background-color: rgb(223, 217, 217);
+    display: block;
+    cursor: pointer;
+
+
+}
+.thumbnails{
+    width:60%;
+    height: 100%;   
+}
+.descript{
+    font-size: 0.8rem;
+}
+.outer{
+    width:30%;
+}
+.details{
+    margin: 2%;
+    text-decoration : underline;
+    cursor: pointer;
+}
+.rightside{
+    width:70%;
+    padding: 2%;
+}
+.bigimage{
+   
+    padding-top: 0%;
+    width:100%;
+}
+.heading{
+   
+    text-align: right;
+}.pointcur{
+    cursor: pointer;
+}
